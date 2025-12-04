@@ -2,10 +2,10 @@
   <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
 </p>
 
-# ¡Hola! Soy **Oriana (Ori/Yori)** 👩‍💻🌸
-- 📚 Amo las matemáticas y leer libros de todo tipo (¡sí, también novelas románticas!)
+# ¡Hola! Soy **Oriana** 👩‍💻🌸
+- 📚 Amo las matemáticas y leer libros de todo tipo
 - 💻 Programadora en formación, siempre lista para nuevos desafíos.
-- 🛠 Tecnologías que uso: JavaScript, Python, C++, Pilas Bloques.
+- 🛠 Tecnologías que uso: JavaScript, Python, C++.
 - 🚀 Me gusta crear cosas útiles con código y resolver problemas.
 - 🌸 Frase que me inspira: *"Todo llega cuando menos te lo esperes"*  
 
